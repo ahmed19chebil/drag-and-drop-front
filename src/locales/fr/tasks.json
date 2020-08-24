@@ -1,0 +1,12 @@
+{
+	"tasks.dialog.title": "Action on task",
+	"tasks.delete": "Delete task",
+	"tasks.update": "Edit task",
+	"tasks.update.title": "Update task",
+	"tasks.delete.confirm": "Are you sure you want to delete this task?",
+	"tasks.deleted.success": "Task deleted successfully",
+	"tasks.linked.list": "Linked tasks",
+	"tasks.linked.helper": "Select a linked task in order to change its text",
+	"tasks.linked": "Linked task",
+	"tasks.linked.text": "Linked task text"
+}

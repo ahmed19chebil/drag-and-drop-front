@@ -1,0 +1,16 @@
+{
+	"common.title": "title",
+	"common.tools": "Tools",
+	"common.delete": "Confirmation",
+	"common.cancel": "Cancel",
+	"common.confirm": "Confirm",
+	"common.save": "Save",
+	"tasks.icon.required": "The icon is required",
+	"tasks.title.required": "The title is required",
+	"tasks.form.required": "The form is required",
+	"tasks.color.required": "The color is required",
+	"tasks.color": "Color",
+	"tasks.title": "Title",
+	"tasks.form": "Form",
+	"tasks.icon": "Icon"
+}
